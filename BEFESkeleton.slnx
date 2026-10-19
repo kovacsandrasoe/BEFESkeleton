@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../BEFESkeleton.ConsoleClient/BEFESkeleton.ConsoleClient.csproj" Id="9ea4ff38-16fd-469f-928b-766fe849fcd3" />
   <Project Path="BEFESkeleton.csproj" />
 </Solution>
